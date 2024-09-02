@@ -1,0 +1,10 @@
+{
+  "login": {
+    "lockedOutUser": "Epic sadface: Sorry, this user has been locked out."
+  },
+  "checkout": {
+    "firstNameRequired": "Error: First Name is required",
+    "lastNameRequired": "Error: Last Name is required",
+    "postalCodeRequired": "Error: Postal Code is required"
+  }
+}
